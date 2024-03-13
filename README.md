@@ -1,2 +1,1 @@
-# ML-ops
-Learning end to end
+# AzureDeployment
